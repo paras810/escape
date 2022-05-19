@@ -1,1 +1,11 @@
+*{
+    padding: 0;margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    transition: all .2s ease;
+    text-decoration: none;
 
+}
+html{
+    font-size: 62.5%;
+}
